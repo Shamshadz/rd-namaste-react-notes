@@ -15,7 +15,7 @@ For instance, `div>ul>li.item$*3`
     </ul>
 </div>
 ```
-### **ii) CSS Abbreviations**: Emmet also supports expanding CSS abbreviations
+== ### **ii) CSS Abbreviations**: Emmet also supports expanding CSS abbreviations ==
 For instance, `m10`
 ```
 margin: 10px;
