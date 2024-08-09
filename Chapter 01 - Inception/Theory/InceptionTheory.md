@@ -1,4 +1,4 @@
-<mark>## Namaste React Course</mark>
+## <mark>Namaste React Course</mark>
 
 ## Chapter - 01 - Inception
 
